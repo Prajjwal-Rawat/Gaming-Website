@@ -1,8 +1,11 @@
-# React + Vite
+<p align="center">
+  <h1><strong>Awwards Gaming Website</strong></h1>
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <a href="https://gaming-website-aqeusbroj-prajjwal-rawats-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center"> <img src="https://github.com/Prajjwal-Rawat/Gaming-Website/blob/main/public/img/HomePage.jpg">
